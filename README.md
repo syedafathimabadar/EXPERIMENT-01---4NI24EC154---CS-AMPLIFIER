@@ -10,3 +10,5 @@ The CS amplifier is one of the most fundamental analog amplifier configurations 
 DC, AC and TRANSIENT Analysis of CS-Amplifier
 
 CIRCUIT DIAGRAM
+
+
