@@ -16,21 +16,21 @@ CIRCUIT DIAGRAM
 
 The design is implemented using the following specifications:
 
-Parameter	Value
-Supply Voltage	1.2 V
-Technology	TSMC 180 nm
-Channel Length (L)	360 nm
-Load Capacitance (CL)	0.5 pF
-Power Limit	≤ 0.4 mW
+a.Parameter	Value
+b.Supply Voltage = 1.2 V
+c.Technology	TSMC 180 nm
+d.Channel Length (L)	= 360 nm
+e.Load Capacitance (CL)	= 0.5 pF
+f. Limit	≤ 0.4 mW
 
 Circuit Description
 
 The circuit consists of:
 
-• NMOS transistor operating in common source configuration
-• Drain resistor RD
-• Input voltage source Vin
-• Load capacitor CL
+1.NMOS transistor operating in common source configuration
+2.Drain resistor RD
+3.Input voltage source Vin
+4.Load capacitor CL
 
 The input signal is applied at the gate terminal, while the output is taken from the drain terminal.
 
